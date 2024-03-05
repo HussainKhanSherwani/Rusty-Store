@@ -1,0 +1,65 @@
+Project name:
+- RustyStore
+
+Who are you:
+- Name: Sherwani
+- Role: Software Developer
+- Expertise: Rust programming
+- Experience: 5 years in software development
+- Passion: Building robust and efficient systems
+- Goal: Delivering high-quality solutions
+- Motivation: Solving real-world problems
+
+Project details:
+- RustyStore is an inventory management system designed for small retail stores. It allows store managers to efficiently manage their product inventory, including adding, editing, and deleting products. The system also provides reporting functionality to generate user-friendly reports of the store's inventory. Built using Rust, the system ensures reliability, performance, and security.
+
+Vision:
+- Our vision for RustyStore is to provide small retail businesses with a reliable and user-friendly inventory management solution. By automating inventory tasks and providing insightful reports, RustyStore aims to streamline store operations and improve efficiency. We envision RustyStore making a big impact by empowering store owners to focus more on growing their business and less on managing inventory.
+
+Project Description:
+RustyStore is a Rust-based inventory management system designed for small retail stores. It allows store managers to efficiently manage their product inventory, including adding, editing, and deleting products. The system also provides reporting functionality to generate user-friendly reports of the store's inventory. Built using Rust, the system ensures reliability, performance, and security.
+
+Vision Statement:
+Our vision for RustyStore is to provide small retail businesses with a reliable and user-friendly inventory management solution. By automating inventory tasks and providing insightful reports, RustyStore aims to streamline store operations and improve efficiency. We envision RustyStore making a big impact by empowering store owners to focus more on growing their business and less on managing inventory.
+
+Software Development Plan:
+1. Define product struct and inventory struct
+2. Implement functions for adding, editing, and deleting products in the inventory
+3. Develop reporting functionality to generate inventory reports
+4. Implement error handling to ensure robustness and reliability
+5. Add basic authentication and access control for security
+6. Build a user-friendly text-based interface for easy navigation and task execution
+
+Personal Story Summary:
+As a software developer passionate about solving real-world problems, I embarked on the journey of creating RustyStore, an inventory management system for small retail stores. With my expertise in Rust programming and years of experience in software development, I envisioned RustyStore as a solution to streamline inventory management tasks and empower store owners to focus on growing their business. RustyStore is more than just a project; it's a testament to my commitment to delivering high-quality solutions that make a meaningful impact.
+
+GitHub Readme (Draft):
+## RustyStore Inventory Management System
+
+RustyStore is an inventory management system designed for small retail stores. It allows store managers to efficiently manage their product inventory, including adding, editing, and deleting products. The system also provides reporting functionality to generate user-friendly reports of the store's inventory.
+
+### Features:
+- Add, edit, and delete products
+- Generate inventory reports
+- User-friendly text-based interface
+- Robust error handling
+- Basic authentication and access control
+
+### Installation:
+1. Clone the repository: `git clone https://github.com/HussainKhanSherwani/RustyStore.git`
+2. Navigate to the project directory: `cd RustyStore`
+3. Compile and run the program: `cargo run`
+
+### Usage:
+- Follow the on-screen prompts to perform various inventory management tasks.
+- Use the menu options to add, edit, or delete products, generate reports, and exit the program.
+
+### Contributors:
+- Sherwani (GitHub: yourusername)
+
+### License:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+### Support:
+For any questions or issues, please open an [issue](https://github.com/HussainKhanSherwani/RustyStore/issues) on GitHub.
+```
